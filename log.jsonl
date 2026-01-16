@@ -12,6 +12,12 @@
 {
   "date": "2026-01-14",
   "activity": "First day in Ottawa, heard some keynotes and did breakout sessions. met lots of Shopifolk.",
-  "people": ["Jarrod Stone, Helen Zhang, Leona Li, Marcus Carvalho, Vincent Chan, Steve Colvin, Sai Paladugu, Bryan Brees, Amy Liu, Pearl Sequeira"],
+  "people": ["Jarrod Stone", "Helen Zhang", "Leona Li", "Marcus Carvalho", "Vincent Chan", "Steve Colvin", "Sai Paladugu", "Bryan Brees", "Amy Liu", "Pearl Sequeira"],
   "in-office": true
+}
+{
+  "date": "2026-01-15",
+  "activity": "Second day of Startup Connections, ate dinner with some designers at Datsun.",
+  "people": ["Pearl Sequeira", "Amy Liu", "Tasha Anestopoulos", "Bryan Brees", "Mike Ackison", "Min Zhou", "Nick Kutateli"],
+  "in-office" true
 }

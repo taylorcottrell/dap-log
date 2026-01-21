@@ -21,3 +21,15 @@
   "people": ["Pearl Sequeira", "Amy Liu", "Tasha Anestopoulos", "Bryan Brees", "Mike Ackison", "Min Zhou", "Nick Kutateli"],
   "in-office" true
 }
+{
+  "date": "2026-01-20",
+  "activity": "First offical day of work at Shopify. Got settled into the agentic search team.",
+  "people": ["Jon Rundle"],
+  "in-office" false
+}
+{
+  "date": "2026-01-21",
+  "activity": "Had my first review of the Agentic Search work. Iterated some early ideas for user feedback",
+  "people": ["Jon Rundle, Luke Dupont"],
+  "in-office" true
+}

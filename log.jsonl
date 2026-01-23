@@ -39,3 +39,9 @@
   "people": ["Jon Rundle"],
   "in-office" false
 }
+{
+  "date": "2026-01-23",
+  "activity": "Third review of the Agentic Search work. Sharing to larger team next week. Worked in-person with Luke and Julian",
+  "people": ["Jon Rundle, Luke Dupont, Julian Kelly"],
+  "in-office" true
+}

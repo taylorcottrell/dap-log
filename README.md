@@ -16,7 +16,7 @@ Daily, append-only log of my Design Apprentice Program experience at Shopify.
 - `in-office` (boolean)
 
 ## Rules
-- Log every day
+- Log every work day
 - All schema fields are required
 - Keep entries short and objective
 - Append only (no edits)

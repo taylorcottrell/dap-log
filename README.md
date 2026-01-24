@@ -13,6 +13,7 @@ Daily, append-only log of my Design Apprentice Program experience at Shopify.
 - `date` (string, YYYY-MM-DD)
 - `activity` (string)
 - `people` (string[])
+- `in-office` (boolean)
 
 ## Rules
 - Log every day

@@ -18,7 +18,7 @@ Daily, append-only log of my Design Apprentice Program experience at Shopify.
 ## Rules
 - Log every day
 - All schema fields are required
-- Keep entries short and factual
+- Keep entries short and objective
 - Append only (no edits)
 
 ## Purpose

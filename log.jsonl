@@ -45,3 +45,15 @@
   "people": ["Jon Rundle, Luke Dupont, Julian Kelly"],
   "in-office" true
 }
+{
+  "date": "2026-01-26",
+  "activity": "Final review of the Agentic Search work. Sharing to larger team tomorrow.",
+  "people": ["Jon Rundle"],
+  "in-office" false
+}
+{
+  "date": "2026-01-27",
+  "activity": "First Design Office Hours share out. Got some great feedback on the Agentic Search work.",
+  "people": ["Jon Rundle, Julian Kelly, Luke Dupont, Kyle Waldrop"],
+  "in-office" false
+}

@@ -63,3 +63,15 @@
   "people": ["Jon Rundle, Katarina Batina"],
   "in-office" false
 }
+{
+  "date": "2026-01-29",
+  "activity": "Met with Ellen (Product) and Alex (Engineering) about feedback UX.",
+  "people": ["Jon Rundle, Liam Fennel, Ellen Dunne, Alex Hauka"],
+  "in-office" true
+}
+{
+  "date": "2026-01-30",
+  "activity": "First Cohort Fridays and deep work on agent.",
+  "people": ["Amy Liu, Pearl Sequiera"],
+  "in-office" false
+}

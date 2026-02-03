@@ -75,3 +75,15 @@
   "people": ["Amy Liu, Pearl Sequiera"],
   "in-office" false
 }
+{
+  "date": "2026-02-02",
+  "activity": "Prep for follow-up Design Office Hours share of Agent Feedback UX",
+  "people": ["Jon Rundle"],
+  "in-office" false
+}
+{
+  "date": "2026-02-03",
+  "activity": "Agent feedback UX share out, submitted stack of 5 PRs",
+  "people": ["Jon Rundle"],
+  "in-office" false
+}

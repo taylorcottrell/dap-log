@@ -82,8 +82,14 @@
   "in-office" false
 }
 {
-  "date": "2026-02-03",
-  "activity": "Agent feedback UX share out, got my first production PR submitted",
-  "people": ["Jon Rundle"],
+  "date": "2026-02-04",
+  "activity": "First PR approved!",
+  "people": ["Jon Rundle, Alex Hauka"],
+  "in-office" false
+}
+{
+  "date": "2026-02-05",
+  "activity": "Took the day off for a weekend ski trip.",
+  "people": ["Thomas Cottrell, Trey Cottrell"],
   "in-office" false
 }

@@ -93,3 +93,15 @@
   "people": ["Thomas Cottrell, Trey Cottrell"],
   "in-office" false
 }
+{
+  "date": "2026-02-09",
+  "activity": "Moved the Agent Feedback UX work to dev",
+  "people": ["Mitch Soares, Mujtaba Khambatti, Jon Rundle"],
+  "in-office" false
+}
+{
+  "date": "2026-02-10",
+  "activity": "Submitted a PR for fixing hover fills in agent and had my 1-month review",
+  "people": ["Jon Rundle"],
+  "in-office" false
+}

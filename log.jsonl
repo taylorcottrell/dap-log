@@ -105,3 +105,21 @@
   "people": ["Jon Rundle"],
   "in-office" false
 }
+{
+  "date": "2026-02-11",
+  "activity": "First day of Hack Days 39",
+  "people": ["Nick Nehaul, Ashvin Rajasiri, Jonathan Shanmuganantham, Tim Yoon"],
+  "in-office" false
+}
+{
+  "date": "2026-02-12",
+  "activity": "Second day of Hack Days 39",
+  "people": ["Nick Nehaul, Ashvin Rajasiri, Jonathan Shanmuganantham, Tim Yoon"],
+  "in-office" false
+}
+{
+  "date": "2026-02-13",
+  "activity": "Third and final day of Hack Days 39",
+  "people": ["Nick Nehaul, Ashvin Rajasiri, Jonathan Shanmuganantham, Tim Yoon"],
+  "in-office" false
+}

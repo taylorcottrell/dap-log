@@ -123,3 +123,16 @@
   "people": ["Nick Nehaul, Ashvin Rajasiri, Jonathan Shanmuganantham, Tim Yoon"],
   "in-office" false
 }
+{
+  "date": "2026-02-16",
+  "activity": "President's Day",
+  "people": [""],
+  "in-office" false
+}
+{
+  "date": "2026-02-17",
+  "activity": "Put up a PR to add snapping to item carousels, working on Feedback v2 exploration",
+  "people": ["Jon Rundle"],
+  "in-office" false
+}
+

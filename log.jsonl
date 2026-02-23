@@ -135,4 +135,28 @@
   "people": ["Jon Rundle"],
   "in-office" false
 }
+{
+  "date": "2026-02-18",
+  "activity": "Data workshop with APMs",
+  "people": [""],
+  "in-office" false
+}
+{
+  "date": "2026-02-19",
+  "activity": "Met with the agentic trifecta, chatting new agent features",
+  "people": ["Avi Swerdlow, Nikita Ali, Jon Rundle"],
+  "in-office" false
+}
+{
+  "date": "2026-02-20",
+  "activity": "Met with the agentic trifecta, preparing for SLT meeting and chatted with APDs",
+  "people": ["Avi Swerdlow, Nikita Ali, Jon Rundle, Pearl Sequiera, Amy Liu"],
+  "in-office" false
+}
+{
+  "date": "2026-02-23",
+  "activity": "Reviewed pre-query work with Jon",
+  "people": ["Jon Rundle"],
+  "in-office" false
+}
 

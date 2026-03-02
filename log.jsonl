@@ -19,144 +19,173 @@
   "date": "2026-01-15",
   "activity": "Second day of Startup Connections, ate dinner with some designers at Datsun.",
   "people": ["Pearl Sequeira", "Amy Liu", "Tasha Anestopoulos", "Bryan Brees", "Mike Ackison", "Min Zhou", "Nick Kutateli"],
-  "in-office" true
+  "in-office": true
 }
 {
   "date": "2026-01-20",
   "activity": "First offical day of work at Shopify. Got settled into the agentic search team.",
   "people": ["Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-01-21",
   "activity": "Had my first review of the Agentic Search work. Iterated some early ideas for user feedback",
   "people": ["Jon Rundle, Luke Dupont"],
-  "in-office" true
+  "in-office": true
 }
 {
   "date": "2026-01-22",
   "activity": "Second review of the Agentic Search work. Prepping to share to larger team next week.",
   "people": ["Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-01-23",
   "activity": "Third review of the Agentic Search work. Sharing to larger team next week. Worked in-person with Luke and Julian",
   "people": ["Jon Rundle, Luke Dupont, Julian Kelly"],
-  "in-office" true
+  "in-office": true
 }
 {
   "date": "2026-01-26",
   "activity": "Final review of the Agentic Search work. Sharing to larger team tomorrow.",
   "people": ["Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-01-27",
   "activity": "First Design Office Hours share out. Got some great feedback on the Agentic Search work.",
   "people": ["Jon Rundle, Julian Kelly, Luke Dupont, Kyle Waldrop"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-01-28",
   "activity": "First 1:1 with Katarina and continued to work on Agentic Search.",
   "people": ["Jon Rundle, Katarina Batina"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-01-29",
   "activity": "Met with Ellen (Product) and Alex (Engineering) about feedback UX.",
   "people": ["Jon Rundle, Liam Fennel, Ellen Dunne, Alex Hauka"],
-  "in-office" true
+  "in-office": true
 }
 {
   "date": "2026-01-30",
   "activity": "First Cohort Fridays and deep work on agent.",
   "people": ["Amy Liu, Pearl Sequiera"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-02",
   "activity": "Prep for follow-up Design Office Hours share of Agent Feedback UX",
   "people": ["Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-04",
   "activity": "First PR approved!",
   "people": ["Jon Rundle, Alex Hauka"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-05",
   "activity": "Took the day off for a weekend ski trip.",
   "people": ["Thomas Cottrell, Trey Cottrell"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-09",
   "activity": "Moved the Agent Feedback UX work to dev",
   "people": ["Mitch Soares, Mujtaba Khambatti, Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-10",
   "activity": "Submitted a PR for fixing hover fills in agent and had my 1-month review",
   "people": ["Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-11",
   "activity": "First day of Hack Days 39",
   "people": ["Nick Nehaul, Ashvin Rajasiri, Jonathan Shanmuganantham, Tim Yoon"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-12",
   "activity": "Second day of Hack Days 39",
   "people": ["Nick Nehaul, Ashvin Rajasiri, Jonathan Shanmuganantham, Tim Yoon"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-13",
   "activity": "Third and final day of Hack Days 39",
   "people": ["Nick Nehaul, Ashvin Rajasiri, Jonathan Shanmuganantham, Tim Yoon"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-16",
   "activity": "President's Day",
   "people": [""],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-17",
   "activity": "Put up a PR to add snapping to item carousels, working on Feedback v2 exploration",
   "people": ["Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-18",
   "activity": "Data workshop with APMs",
   "people": [""],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-19",
   "activity": "Met with the agentic trifecta, chatting new agent features",
   "people": ["Avi Swerdlow, Nikita Ali, Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-20",
   "activity": "Met with the agentic trifecta, preparing for SLT meeting and chatted with APDs",
   "people": ["Avi Swerdlow, Nikita Ali, Jon Rundle, Pearl Sequiera, Amy Liu"],
-  "in-office" false
+  "in-office": false
 }
 {
   "date": "2026-02-23",
   "activity": "Reviewed pre-query work with Jon",
   "people": ["Jon Rundle"],
-  "in-office" false
+  "in-office": false
 }
-
+{
+  "date": "2026-02-24",
+  "activity": "Reviewed pre-query feasibility with dev",
+  "people": ["Jon Rundle, Nikita Ali, Brandon Fonseca, Mitch Soares"],
+  "in-office": false
+}
+{
+  "date": "2026-02-25",
+  "activity": "Had 2nd monthly 1:1 with Katarina and chatted with Trifecta",
+  "people": ["Jon Rundle, Nikita Ali, Avi Swerdlow, Katarina Batina"],
+  "in-office": false
+}
+{
+  "date": "2026-02-26",
+  "activity": "Toggled over to Agent Feed card",
+  "people": ["Jon Rundle"],
+  "in-office": true
+}
+{
+  "date": "2026-02-27",
+  "activity": "Shop Monthly",
+  "people": ["Jon Rundle"],
+  "in-office": false
+}
+{
+  "date": "2026-03-02",
+  "activity": "Worked further on the agent feed card and chatted with Kyle",
+  "people": ["Jon Rundle, Kyle Waldrop"],
+  "in-office": false
+}

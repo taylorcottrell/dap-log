@@ -189,3 +189,27 @@
   "people": ["Jon Rundle, Kyle Waldrop"],
   "in-office": false
 }
+{
+  "date": "2026-03-03",
+  "activity": "Worked further on the agent feed card",
+  "people": ["Jon Rundle"],
+  "in-office": false
+}
+{
+  "date": "2026-03-04",
+  "activity": "Worked further on the agent feed card",
+  "people": ["Jon Rundle"],
+  "in-office": false
+}
+{
+  "date": "2026-03-05",
+  "activity": "Set up feed agent card system in Figma",
+  "people": ["Jon Rundle"],
+  "in-office": false
+}
+{
+  "date": "2026-03-06",
+  "activity": "Discussed feed agent card rendering and fetching with feed eng and PM",
+  "people": ["Jon Rundle, Julian Kelly, DJ Chung, Ryan Lambert, Rhys Young, Anneya Golob"],
+  "in-office": true
+}
